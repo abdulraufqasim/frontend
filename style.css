@@ -4,11 +4,11 @@ body{
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;
-    height: 600px;
+    height: 740px;
     overflow-x:hidden;
 }
 
-/* ================= HEADER ================= */
+/* HEADER */
 
 header{
 
@@ -76,7 +76,7 @@ nav ul li a{
 
 }
 
-/* ================= HERO ================= */
+/* HERO */
 
 .hero{
 
@@ -313,6 +313,9 @@ hr{
     font-size:15px;
     line-height:30px;
 }
+/* FOOTER */
+
+
 .footer{
     width:100%;
     height:500px;
