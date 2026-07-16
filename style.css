@@ -4,7 +4,8 @@ body{
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;
-    height: 740px;
+    height: 780px;
+    background-color: #08d4ff;
 }
 
 /* HEADER */
